@@ -14,9 +14,7 @@ https://web-delta-nine-79.vercel.app
 
 🎥 **End-to-End Demo**
 
-```text
-demo/forge-demo.mp4
-```
+https://youtu.be/JoRMfa53IAs
 
 ---
 
